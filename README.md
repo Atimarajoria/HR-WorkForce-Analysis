@@ -42,6 +42,7 @@ Performance and productivity tracking
 Identification of key factors affecting employee turnover
 Workforce trend analysis (hiring vs exits)
 Employee segmentation based on roles and departments
+
 📊 Dashboard Preview
 <img width="1338" height="804" alt="Screenshot 2026-04-01 115931" src="https://github.com/user-attachments/assets/30d69562-0ac9-46b5-b560-2c780b6df2cd" />
 
